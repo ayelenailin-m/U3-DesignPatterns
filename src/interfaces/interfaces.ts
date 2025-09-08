@@ -14,3 +14,4 @@ export interface IInventario {
 export interface EquipoProducto {
   detalles() : string;
 }
+

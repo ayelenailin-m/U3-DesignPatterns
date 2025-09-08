@@ -1,6 +1,4 @@
 import { EquipoFactory } from "./equipoFactory";
-
-
 export function demoFactory() {
   const factory = new EquipoFactory();
   const nb = factory.crearEquipo("Notebook", "HP Probook", "32GB", "i7");
